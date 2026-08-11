@@ -1,6 +1,6 @@
 # Installing Dracula for SecureCRT
 
-This theme applies the full [Dracula](https://draculatheme.com/) palette to SecureCRT: the terminal **window colors** (background, foreground, bold) _and_ the complete **16-color ANSI palette**, so `ls --color`, `grep`, syntax highlighting, and powerline prompts all render in true Dracula. It also includes an optional purple cursor.
+This theme applies the full [Dracula](https://draculatheme.com/spec) palette to SecureCRT: the terminal **window colors** (background, foreground, bold) _and_ the complete **16-color ANSI palette**, so `ls --color`, `grep`, syntax highlighting, and powerline prompts all render in true Dracula. It also includes an optional purple cursor.
 
 There are two ways to install it. The **GUI method** works on every SecureCRT version and is recommended. The **config-file method** is a faster path for current versions (v7 and later). All color values, in both hex and decimal, are in [PALETTE.md](./PALETTE.md).
 
