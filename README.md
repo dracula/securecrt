@@ -6,7 +6,7 @@
 
 ## Install
 
-All instructions can be found at [INSTALL.md](./INSTALL.md).
+All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/securecrt).
 
 ## Team
 
